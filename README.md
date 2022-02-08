@@ -17,7 +17,7 @@ Nas horas livres jogo game que não sou de ferro: RP Grand Theft Auto V
 </p><br />
 <hr />
   
-<img align="right" alt="GIF" src="https://external-preview.redd.it/wkdwpI30ciwaCDOqtaKxO-FcitPUGHwxUD2H_WTe9yw.gif?format=mp4&s=039bbb67c5626e6e0097d248f772551f4ae286c6" />
+<img align="right" alt="GIF" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" />
 
 **Meus interesses pessoais:**
 
