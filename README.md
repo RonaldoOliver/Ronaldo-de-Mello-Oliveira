@@ -10,7 +10,7 @@ Me chamo <b> Ronado Oliveira</b>.
 </p>
 <p align="left" >
 Atualmente moro na Penha/SP-BR.<br />
-Estou a procura de uma oportunidade como:<b>Junior QA Automation Engineer </b>.
+Estou a procura de uma oportunidade como: <b>Junior QA Automation Engineer </b>.
 </p>
 <p align="left" >
 Nas horas livres jogo game que não sou de ferro: Battlefield 2042
