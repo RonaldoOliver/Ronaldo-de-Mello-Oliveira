@@ -53,4 +53,3 @@ Nas horas livres jogo game que não sou de ferro: Battlefield 2042
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RonaldoOliver" alt="Ronaldo-Oliveira" /> </p>
 
-⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
